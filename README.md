@@ -23,3 +23,11 @@ loaded plugins, after `freeboard.js`.
 [[datasources["data"]["x-axis"], datasources["data"]["y-axis"]]
 `
  6. Save the widget!
+
+## Related Projects
+
+ * [Freeboard Flot Extended][ffe] - stufisher has extended this plugin with
+                                    support for historical data, more chart
+                                    types, and much more.
+
+[ffe]: https://github.com/stufisher/freeboard-flot-extended
